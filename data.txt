@@ -1,1 +1,1 @@
-{"games":[{"isActive":1,"folderName":"BridgeRun","backgrouns":["Bg.jpg"],"icons":["icon.png"],"infos":["Info.txt"]},{"isActive":1,"folderName":"CleaningTruck","backgrouns":["Bg.jpg"],"icons":["icon.jpg"],"infos":["Info.txt"]}]}
+{"games":[{"isActive":1,"folderName":"BridgeRun","backgrouns":["Bg.jpg"],"icons":["icon.png"],"infos":["Info.txt"]},{"isActive":1,"folderName":"TruckChallenge","backgrouns":["Bg.jpg"],"icons":["icon.jpg"],"infos":["Info.txt"]}]}
