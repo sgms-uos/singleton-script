@@ -1,0 +1,1 @@
+{"gameName":"Get Rich: Money Run 3D","gameURL":"https://apps.apple.com/us/app/get-rich-money-run-3d/id6450535887","discription":"Money run rich is a thrilling race where you can earn money and conquer various challenges in run simulator.","bundleId":"com.run.bridge.race.money"}
