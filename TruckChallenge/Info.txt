@@ -1,0 +1,1 @@
+{"gameName":"Garbage Trash Truck Challenge","gameURL":"https://apps.apple.com/us/app/garbage-trash-truck-challenge/id6450005639","discription":"Power wash truck is a simulation game that puts you in the garbage cleaning of a powerful and technical power wash truck cleaner game.","bundleId":"com.power.wash.garbage.cleaning"}
