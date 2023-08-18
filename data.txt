@@ -1,1 +1,1 @@
-{"games":[{"isActive":1,"folderName":"BridgeRun","backgrouns":["Bg.jpg"],"icons":["icon.png"],"infos":["Info.json"]}]}
+{"games":[{"isActive":1,"folderName":"BridgeRun","backgrouns":["Bg.jpg"],"icons":["icon.png"],"infos":["Info.txt"]}]}
